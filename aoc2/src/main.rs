@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 fn main() {
     let input: Vec<String> = std::fs::read_to_string("./input.txt")
         .unwrap()
